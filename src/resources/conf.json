@@ -1,0 +1,12 @@
+{
+  "vertx": {
+    "workerPoolSize": 18,
+    "eventLoopPoolSize": 3
+  },
+  "dbConfig": {
+    "jdbcUrl": "jdbc:mysql://localhost:3306/vertx_demo",
+    "user": "root",
+    "password": "Vertx_demo",
+    "maxPoolSize": 16
+  }
+}
